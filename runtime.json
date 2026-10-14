@@ -1,0 +1,11 @@
+{
+  "pid": 22640,
+  "host": "0.0.0.0",
+  "port": 8765,
+  "db_path": "C:\\Users\\Harsh\\AppData\\Local\\hermes\\mnemosyne\\data\\mnemosyne.db",
+  "bind_url": "http://0.0.0.0:8765/",
+  "local_url": "http://127.0.0.1:8765/",
+  "log": "C:\\Users\\Harsh\\AppData\\Local\\hermes\\plugin-data\\mnemosyne-dashboard\\server.log",
+  "source": "server.py",
+  "started_at": 1791974410.138
+}

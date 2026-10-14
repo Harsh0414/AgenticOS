@@ -1,0 +1,10 @@
+{
+  "host": "0.0.0.0",
+  "port": 8765,
+  "db_path": "C:\\Users\\Harsh\\AppData\\Local\\hermes\\mnemosyne\\data\\mnemosyne.db",
+  "auth_enabled": false,
+  "password_hash": "",
+  "password_salt": "",
+  "auth_secret": "uWM8sUGz9h3mjXBybbA8qOfJQzSZt1_XI4E4oHaiJRE",
+  "memory_admin_enabled": false
+}
